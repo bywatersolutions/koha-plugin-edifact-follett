@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh run:*)",
+      "Read(//usr/share/**)",
+      "Read(//usr/lib/**)",
+      "Read(//Users/kyle/**)"
+    ]
+  }
+}
